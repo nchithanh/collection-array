@@ -19,7 +19,9 @@ A lightweight, fluent utility class for working with arrays in TypeScript. Inspi
 
 To install the package:
 
-npm install @charon4/collection-array
+npm install @charon4/collection-array | yarn add @charon4/collection-array
+
+import { Collection } from '@charon4/collection-array/src';
 
 ## Example
 
