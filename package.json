@@ -1,10 +1,21 @@
 {
   "name": "@charon4/collection-array",
-  "version": "1.1.0",
+  "version": "1.1.9",
   "description": "A lightweight, fluent utility class for working with arrays in TypeScript.",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
-  "dependencies": {}
+  "keywords": [
+    "typescript",
+    "collection",
+    "array",
+    "utility"
+  ],
+  "author": "Nguyen Chi Thanh",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
 }

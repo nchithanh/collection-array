@@ -21,7 +21,7 @@ To install the package:
 
 npm install @charon4/collection-array | yarn add @charon4/collection-array
 
-import { Collection } from '@charon4/collection-array/src';
+import { Collection } from '@charon4/collection-array';
 
 ## Example
 
